@@ -1,1 +1,1 @@
-FROM kserve/rest-proxy:latest
+FROM kserve/modelmesh-runtime-adapter:latest
