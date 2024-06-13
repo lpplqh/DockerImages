@@ -1,1 +1,3 @@
-From ubuntu:23.04
+From kserve/rest-proxy:latest
+From kserve/modelmesh-runtime-adapter:latest
+From kserve/modelmesh:latest
