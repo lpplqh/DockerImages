@@ -1,0 +1,1 @@
+From kserve/modelmesh:latest
