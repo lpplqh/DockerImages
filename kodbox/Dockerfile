@@ -1,1 +1,1 @@
-from kodcloud/kodbox:1.52
+from --platform=linux/arm64/v8 kodcloud/kodbox
