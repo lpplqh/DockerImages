@@ -1,1 +1,1 @@
-from kodcloud/kodbox:latest
+from kodcloud/kodbox:1.52
